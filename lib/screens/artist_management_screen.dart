@@ -60,3 +60,4 @@ class ArtistManagementScreenState extends State<ArtistManagementScreen> {
     // TODO: Implement the add artist functionality
   }
 }
+// TODO Implement this library.
